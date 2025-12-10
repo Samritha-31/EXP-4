@@ -36,16 +36,36 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier without and with filter:
 
-Bridge rectifier with filter:
+<img width="1080" height="781" alt="BEEE EX4 1-1" src="https://github.com/user-attachments/assets/fc4eec46-b8f0-4676-aaff-11f3a1cb8100" />
+
+Full wave rectifier without and with filter:
+
+<img width="1072" height="838" alt="BEEE EX4 2-1" src="https://github.com/user-attachments/assets/c60c3dcd-0dff-4458-b59c-d08fb61f0d0e" />
+
 
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+
+Half wave rectifier
+|INPUT VOLTAGE|OUTPUT VOLTAGE|
+|without filter|with filter|
+|:-----:|:-------------------:|
+|Vm(V)|t(ms)|Vm(v)|t(ms)|Vm(L)|t(ms)|
+|50V|20ms|50V|5ms|50V,46V|5ms,14ms|
+
+Full wave rectifier
 
 WAVEFORM:
+
+Half wave rectifier without and with filter:
+
+<img width="752" height="380" alt="BEEE EX4 1-2" src="https://github.com/user-attachments/assets/51ae12ee-8b17-459d-a77b-09f90c2684c7" />
+
+
+Full wave rectifier without and with filter:
+
+<img width="755" height="383" alt="BEEE EX4 2-2" src="https://github.com/user-attachments/assets/f0f29b6e-4c51-4a5b-bf69-cbb834056c33" />
 
 
 RESULT:
