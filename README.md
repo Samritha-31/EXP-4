@@ -51,7 +51,7 @@ Half wave rectifier
 |INPUT VOLTAGE|OUTPUT VOLTAGE|
  |:-------------------:|
  |without filter|with filter|
- |:-----:|:-------------------:|
+ |:-----:|:----:|:----:|:----:|:----:|:-----:|
  |Vm(V)|t(ms)|Vm(v)|t(ms)|Vm(L)|t(ms)|
  |50V|20ms|50V|5ms|50V,46V|5ms,14ms|
 
