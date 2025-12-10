@@ -49,7 +49,6 @@ TABULAR COLUMN
 
 Half wave rectifier
 |INPUT VOLTAGE|OUTPUT VOLTAGE|
- |:-------------------:|
  |without filter|with filter|
  |:-----:|:----:|:----:|:----:|:----:|:-----:|
  |Vm(V)|t(ms)|Vm(v)|t(ms)|Vm(L)|t(ms)|
