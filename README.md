@@ -103,10 +103,13 @@ Full wave rectifier
 </table>
 
 WAVEFORM:
+
 Half wave rectifier without and with filter:
+
 <img width="752" height="380" alt="BEEE EX4 1-2" src="https://github.com/user-attachments/assets/51ae12ee-8b17-459d-a77b-09f90c2684c7" />
 
 Full wave rectifier without and with filter:
+
 <img width="755" height="383" alt="BEEE EX4 2-2" src="https://github.com/user-attachments/assets/f0f29b6e-4c51-4a5b-bf69-cbb834056c33" />
 
 
