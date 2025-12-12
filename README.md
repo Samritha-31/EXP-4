@@ -48,13 +48,62 @@ Full wave rectifier without and with filter:
 TABULAR COLUMN
 
 Half wave rectifier
-|INPUT VOLTAGE|OUTPUT VOLTAGE|
- |without filter|with filter|
- |:-----:|:----:|:----:|:----:|:----:|:-----:|
- |Vm(V)|t(ms)|Vm(v)|t(ms)|Vm(L)|t(ms)|
- |50V|20ms|50V|5ms|50V,46V|5ms,14ms|
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th rowspan="2" colspan="2">Input Voltage</th>
+    <th colspan="4">Output Voltage</th>
+  </tr>
+  <tr>
+    <th colspan="2">Without Filter</th>
+    <th colspan="2">With Filter</th>
+  </tr>
+  <tr>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>20</td>
+    <td>100</td>
+    <td>10</td>
+    <td>100V, 5V</td>
+    <td>5 ms, 25 ms</td>
+  </tr>
+</table>
 
 Full wave rectifier
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th rowspan="2" colspan="2">Input Voltage</th>
+    <th colspan="4">Output Voltage</th>
+  </tr>
+  <tr>
+    <th colspan="2">Without Filter</th>
+    <th colspan="2">With Filter</th>
+  </tr>
+  <tr>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>20</td>
+    <td>50</td>
+    <td>5</td>
+    <td>50, 46</td>
+    <td>5 ms, 14 ms</td>
+  </tr>
+</table>
 
 WAVEFORM:
 
