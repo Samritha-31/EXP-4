@@ -44,7 +44,6 @@ Full wave rectifier without and with filter:
 
 <img width="1072" height="838" alt="BEEE EX4 2-1" src="https://github.com/user-attachments/assets/c60c3dcd-0dff-4458-b59c-d08fb61f0d0e" />
 
-
 TABULAR COLUMN
 
 Half wave rectifier
@@ -106,11 +105,9 @@ Full wave rectifier
 </table>
 
 WAVEFORM:
-
 Half wave rectifier without and with filter:
 
 <img width="752" height="380" alt="BEEE EX4 1-2" src="https://github.com/user-attachments/assets/51ae12ee-8b17-459d-a77b-09f90c2684c7" />
-
 
 Full wave rectifier without and with filter:
 
