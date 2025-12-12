@@ -45,7 +45,6 @@ Full wave rectifier without and with filter:
 TABULAR COLUMN
 
 Half wave rectifier
-
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <th rowspan="2" colspan="2">Input Voltage</th>
@@ -74,7 +73,6 @@ Half wave rectifier
 </table>
 
 Full wave rectifier
-
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <th rowspan="2" colspan="2">Input Voltage</th>
